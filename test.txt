@@ -3,3 +3,4 @@ Add new line
 123
 45678
 test rebase 2
+test rebase 4
